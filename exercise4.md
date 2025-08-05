@@ -25,8 +25,9 @@ activate server
 server -->> browser: JSON data 
 deactivate server
 
-Note right of browser: The executes the function that renders the fetched data 
+Note right of browser: The browser executes the function that renders the fetched data 
 ```
  
+
 
 
